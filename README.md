@@ -6,3 +6,4 @@ This tutorial focuses mainly on on Git and using Git Hubs as its remote.
 This repository is built step by step in the tutorial.
 
 It now include steps for Githubs
+This is a new Lines
